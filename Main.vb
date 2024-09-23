@@ -438,12 +438,7 @@ Public Class Main
 
 
 
-    Private Sub ImportNLToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
-        Dim myform As New frmImportLijstenNL
-        myform.MdiParent = Me
-        myform.Show()
 
-    End Sub
 
 
     Private Sub DailyPricesToolStripMenuItem_Click_1(ByVal sender As System.Object, ByVal e As System.EventArgs)
