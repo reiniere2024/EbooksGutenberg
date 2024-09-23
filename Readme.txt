@@ -15,7 +15,7 @@ on the website in an effective way. My program contains the exact
 EBook catalogue and you can search and browse through all books
 and of course read and download them if you like.
 
-When you open the solution in Visual Studio then don't forget to
+When you open the solution in Visual Studio 2008 then don't forget to
 move the maps XML and Database to the bin/debug directory when you
 want to run the code.
 
