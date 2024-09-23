@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Ebooks>
+    <Textnr></Textnr>
+    <BookType></BookType>
+    <Issued></Issued>
+    <BookTitle></BookTitle>
+    <Language></Language>
+    <Authors></Authors>
+    <Subjects></Subjects>
+    <LoCC></LoCC>
+    <Bookshelves></Bookshelves>
+  </EBooks>
+</NewDataSet>
